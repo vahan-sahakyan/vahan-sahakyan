@@ -24,7 +24,7 @@
 </table>
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vahan-sahakyan&layout=compact)](https://github.com/vahan-sahakyan/)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vahan-sahakyan&layout=compact)](https://github.com/vahan-sahakyan?tab=repositories)
 </div>
 
 
