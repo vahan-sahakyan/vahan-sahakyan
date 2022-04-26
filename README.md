@@ -36,7 +36,7 @@
 
 
 <hr/>
-      <img src="https://activity-graph.herokuapp.com/graph?username=vahan-sahakyan&theme=nord&bg_color=2f343f00&hide_border=true" width="100%"/>
+      <a href="https://github.com/vahan-sahakyan?tab=repositories"><img src="https://activity-graph.herokuapp.com/graph?username=vahan-sahakyan&theme=nord&bg_color=2f343f00&hide_border=true" width="100%"/></a>
 
 
 
