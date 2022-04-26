@@ -5,7 +5,7 @@
 <h6>MERN Stack ⚙️</h6>
 
   <tr>
-    <td>🍃 MongoDB</td>
+    <td>🍃 Mongo DB</td>
     <td>🚀 Express</td>
     <td>⚛️ React JS</td>
     <td>♻️ Node JS</td>
