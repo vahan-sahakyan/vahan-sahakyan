@@ -1,14 +1,14 @@
-<div align="right">
+<div align="left">
 
 <table>
 <!--   <thead colspan="2"> -->
 <!--     <th colspan="2"> -->
-      <h3>🖥 Web Developer </h3>
+      <h3>Web Developer 🖥 </h3>
 <!--   </th> -->
 <!--   </thead> -->
 <!--   <trcolspan="2"> -->
 <!--     <td>  -->
-      <h6>🌐 MERN Stack</h6>
+      <h6>MERN Stack 📂</h6>
 <!--       </td> -->
 <!--   </tr> -->
   </table>
