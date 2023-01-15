@@ -24,7 +24,7 @@
   <a href="https://github.com/vahan-sahakyan?tab=repositories"><img height="130em" style="border-radius:80px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahan-sahakyan&layout=compact&langs_count=7&theme=nord"/></a>
 
 <hr/>
-<!--       <a href="https://github.com/vahan-sahakyan?tab=repositories"><img src="https://activity-graph.herokuapp.com/graph?username=vahan-sahakyan&theme=nord&bg_color=2f343f00&hide_border=false" width="90%"/></a> -->
+      <a href="https://github.com/vahan-sahakyan?tab=repositories"><img src="https://activity-graph.herokuapp.com/graph?username=vahan-sahakyan&theme=nord&bg_color=2f343f00&hide_border=false" width="90%"/></a> 
 
 
 
