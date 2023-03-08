@@ -1,14 +1,14 @@
 <div align="left">
 
 <table>
-<h3>Web Developer   </h3>
-<h6>MERN Stack ⚙️</h6>
+<h3>Software Engineer</h3>
+<h6>Full Stack</h6>
 
   <tr>
-    <td>🍃 MongoDB</td>
-    <td>🚀 Express</td>
-    <td>⚛️ React JS</td>
-    <td>♻️ Node JS</td>
+    <td>⚛️ React</td>
+    <td>♻️ Node</td>
+    <td>☕️ Java</td>
+    <td>🍃 Spring</td>
   </tr>
 </table>
       
