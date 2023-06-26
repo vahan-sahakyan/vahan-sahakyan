@@ -1,7 +1,7 @@
 <div align="left">
 
 <table>
-<h2 align="left">I'm Vahan &nbsp; 👋 &nbsp; Welcome to my GitHub account</h2>
+<h2 align="left">Hi,&nbsp; I'm Vahan &nbsp; 👋 &nbsp; Welcome to my GitHub account</h2>
 <h3>Software Engineer</h3>
 <h6>Full Stack</h6>
 
