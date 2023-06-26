@@ -1,6 +1,7 @@
 <div align="left">
 
 <table>
+<h2 align="left">I'm Vahan &nbsp; 👋 &nbsp; Welcome to my GitHub account</h2>
 <h3>Software Engineer</h3>
 <h6>Full Stack</h6>
 
@@ -18,12 +19,21 @@
       
 
   
+<br/>
 <hr/>
+<br/>
 
-  <a href="https://github.com/vahan-sahakyan?tab=repositories"><img height="130em" style="border-radius:80px;" src="https://github-readme-stats.vercel.app/api?username=vahan-sahakyan&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/></a>
-  <a href="https://github.com/vahan-sahakyan?tab=repositories"><img height="130em" style="border-radius:80px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahan-sahakyan&layout=compact&langs_count=7&theme=nord"/></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vahan-sahakyan&theme=discord_old_blurple)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vahan-sahakyan&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vahan-sahakyan&theme=discord_old_blurple)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vahan-sahakyan&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vahan-sahakyan&theme=discord_old_blurple)
+
+<br/>
 <hr/>
+<br/>
 <!--
  <a href="https://github.com/vahan-sahakyan?tab=repositories"><img src="https://activity-graph.herokuapp.com/graph?username=vahan-sahakyan&theme=nord&bg_color=2f343f00&hide_border=false" width="90%"/></a> 
 -->
@@ -45,3 +55,6 @@
 
 </div>
 </div>
+
+
+
