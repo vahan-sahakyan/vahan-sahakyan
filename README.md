@@ -18,25 +18,23 @@
 
 I am a Frontend Software Engineer with a huge love for React.js, TypeScript, Node.js, Java, Bash Scripting, and also enjoying to explore the world of Microservices, API Design, RDBMS and System Architecture. Currently I work at Datafoundry AI, which is a big tech company providing world-class healthcare solutions.
   <div align="center">
-    
+    <br/>
+        
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vahan-sahakyan&theme=discord_old_blurple)
 
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vahan-sahakyan&theme=discord_old_blurple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vahan-sahakyan&theme=discord_old_blurple)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vahan-sahakyan&theme=discord_old_blurple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vahan-sahakyan&theme=discord_old_blurple)
-
+-->
 <br/>
-<hr/>
 <br/>
 <!--
  <a href="https://github.com/vahan-sahakyan?tab=repositories"><img src="https://activity-graph.herokuapp.com/graph?username=vahan-sahakyan&theme=nord&bg_color=2f343f00&hide_border=false" width="90%"/></a> 
 -->
 
-
-<br/>
-<br/>
 <br/>
 
 
