@@ -16,7 +16,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I am a Frontend Software Engineer with a huge love for React.js, TypeScript, Node.js, Java, Bash Scripting, and also enjoying to explore the world of Microservices, API Design, RDBMS and System Architecture. Currently I work at Datafoudry AI, which is a big tech company providing world-class healthcare solutions.
+I am a Frontend Software Engineer with a huge love for React.js, TypeScript, Node.js, Java, Bash Scripting, and also enjoying to explore the world of Microservices, API Design, RDBMS and System Architecture. Currently I work at Datafoundry AI, which is a big tech company providing world-class healthcare solutions.
   <div align="center">
     
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vahan-sahakyan&theme=discord_old_blurple)
