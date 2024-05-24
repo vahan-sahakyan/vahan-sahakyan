@@ -68,7 +68,7 @@
 
 
 
-I am a Frontend Software Engineer with a huge passion for React.js, TypeScript, Node.js, Java, Bash Scripting, and also enjoying to explore the world of Microservices, API Design, RDBMS and System Architecture. Currently I work at Datafoundry AI, which is a big tech company providing world-class healthcare solutions.
+I am a Frontend Software Engineer with a huge passion for React.js, Angular, TypeScript, Node.js, Java, Python, Bash Scripting, and also enjoying to explore the world of Microservices, API Design, RDBMS and System Architecture. Currently I work at Optimum Partners, which is a world-class software solutions provider.
 
 <div align="center">
 <br/>
