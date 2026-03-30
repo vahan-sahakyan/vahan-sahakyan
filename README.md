@@ -68,7 +68,7 @@
 
 
 
-I am a Middle Fullstack Engineer with a huge passion for polyglot programming, including - TypeScript, Golang, Java, Python, Bash, using technologies such as React, Angular, Node, Spring, FastAPI, Gin-Gonic while also enjoying the world of Microservices, GCP Cloud Engineering, API Design, RDBMS and System Architecture. Currently I work at Optimum Partners (for Forbes), which is a world-class software solutions provider.
+I am a Full Stack Software Engineer with a huge passion for polyglot programming, including - TypeScript, Golang, Java, Python, Bash, using technologies such as React, Angular, Node, Spring, FastAPI, Gin-Gonic while also enjoying the world of Microservices, GCP Cloud Engineering, API Design, RDBMS and System Architecture. Currently I work at Optimum Partners (for Forbes), which is a world-class software solutions provider.
 
 <div align="center">
 <br/>
